@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 👋 I’m Mohammad AbuJaber
-- 🌱 I’m currently learning ...
+ 👋 I’m Mohammad AbuJaber
+ 🌱 I’m currently learning ...
 
 -->
