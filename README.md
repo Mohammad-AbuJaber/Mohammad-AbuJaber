@@ -1,11 +1,23 @@
 ### Hi there 👋
 
+- 💼 I am a fourth-year student of Computer System Engineering at Birzeit University.
+- 💻 I am passionate about programming and hardware development.
+- 🎯 I have experience with languages like Shell Scripting, Java and Python, and have worked on projects ranging from software development to hardware prototyping.
+- 📧 If you are interested in connecting with me or collaborating on a project, feel free to reach out to me at mohammadabujaber2001@gmail.com.
+- 🌟 I'm always looking to learn more and take on new challenges, so let's get in touch!
+
+
 <!--
 **Mohammad-AbuJaber/Mohammad-AbuJaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 👋 I’m Mohammad AbuJaber
- 🌱 I’m currently learning ...
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: mohammadabujaber2001@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
