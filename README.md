@@ -2,9 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=90" alt="Header Image" />
 </p>
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad AbuJaber</h1>
-
 
 ## 💫 About Me:
 - 💼 I am a fourth-year student of Computer System Engineering at Birzeit University.
@@ -29,7 +27,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-AbuJaber&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Mohammad-AbuJaber GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-AbuJaber&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Mohammad-AbuJaber GitHub Stats" />
 </p>
 
 
