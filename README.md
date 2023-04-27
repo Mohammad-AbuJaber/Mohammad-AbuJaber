@@ -45,4 +45,4 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammad-abujaber&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-abujaber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammad-abujaber&label=Profile%20views&color=0e75b6&style=plastic" alt="mohammad-abujaber" /> </p>
