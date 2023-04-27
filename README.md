@@ -39,3 +39,10 @@
     <a href="https://www.linkedin.com/in/mohammad-abujaber/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:mohammadabujaber2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
 </p> 
+
+
+
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammad-abujaber&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-abujaber" /> </p>
