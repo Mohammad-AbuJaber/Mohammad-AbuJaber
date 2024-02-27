@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad AbuJaber</h1>
 
 ## 💫 About Me:
-- 💼 I am a fifth-year student of Computer System Engineering at Birzeit University.
+- 💼 I am a fresh graduated student of Computer System Engineering at Birzeit University.
 - 💻 I am passionate about programming and hardware development.
 - 🎯 I have experience with languages like Shell Scripting, Java and Python, and have worked on projects ranging from software development to hardware prototyping.
 - 📧 If you are interested in connecting with me or collaborating on a project, feel free to reach out to me at mohammadabujaber2001@gmail.com.
